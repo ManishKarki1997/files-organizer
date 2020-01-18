@@ -12,7 +12,7 @@ $ npm install -g files-organizer
 
 Or just download the script and use it if you don't want to install it as a global package
 
-# Use 
+# Use as global package
 ```sh
 $ organizer --dir=[directory_path] 
 ```
@@ -21,6 +21,17 @@ $ organizer --dir=[directory_path]
  ```sh
  $ organize
  ```
+ 
+ # Use as local package
+ ```sh
+$ node index --dir=[directory_path] 
+```
+ Or
+ 
+ ```sh
+ $ node index
+ ```
+ 
  
  - default directory(--dir) is the desktop path
  
