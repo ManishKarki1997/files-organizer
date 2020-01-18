@@ -1,0 +1,14 @@
+{
+  "name": "files-organizer",
+  "version": "1.0.0",
+  "description": "Organize cluttered files in appropriate folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Karki",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  }
+}
